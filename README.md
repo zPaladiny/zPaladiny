@@ -1,10 +1,10 @@
-# <div align="center">✨ ᴘᴀʟᴀᴅɪɴʏ • ᴢᴘᴀʟᴀᴅɪɴʏ ✨</div>
-
 <div align="center">
   <img height="150" src="https://imgur.com/aXIQLp8.png" />
 </div>
 
+
 <br>
+
 
 <div align="center">
   <b>`プ ロ グ ラ マ`</b>
@@ -14,11 +14,9 @@
   </samp>
 </div>
 
+
 <br>
 
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=Developer+FullStack;Amante+de+Java+e+Minecraft;Designer+Digital;Criador+de+Projetos+únicos;Bem-vindo+ao+meu+universo!"/>
-</div>
 
 ---
 
@@ -38,8 +36,6 @@
 
 <div align="center">
 
-<img height=180 src="https://github-readme-stats.vercel.app/api?username=zPaladiny&show_icons=true&count_private=true&theme=ayu-mirage&rank_icon=github" />
-<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=zPaladiny&layout=compact&theme=ayu-mirage" />
 <br><br>
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zPaladiny&theme=ayu_mirage" />
 <br><br>
@@ -69,6 +65,19 @@
 
 ---
 
+## 🎮 Seção Especial — Minecraft
+
+<div align="center">
+<samp>
+<b>Plugins • Mods • Sistemas • Servidores • Automação • Design MC</b><br><br>
+Trabalho com criação de sistemas em Java, bots para servidores, automações e design visual para comunidades Minecraft.
+</samp>
+</div>
+
+<br>
+
+<br><br>
+
 <details align="center">
   <summary><samp><b>More Info</b></samp></summary>
 <br>
@@ -94,62 +103,6 @@
 
 <br>
 </details>
-
----
-
-## 🕹️ Pac‑Man Contributions
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zPaladiny/zPaladiny/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zPaladiny/zPaladiny/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/zPaladiny/zPaladiny/output/pacman-contribution-graph.svg">
-</picture>
-</div>
-
----
-
-## 🐍 Snake Eating Contributions
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/zPaladiny/zPaladiny/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-## 🎮 Seção Especial — Minecraft
-
-<div align="center">
-<samp>
-<b>Plugins • Mods • Sistemas • Servidores • Automação • Design MC</b><br><br>
-Trabalho com criação de sistemas em Java, bots para servidores, automações e design visual para comunidades Minecraft.
-</samp>
-</div>
-
----
-
-## 🧩 Projetos em Destaque
-
-<div align="center">
-
-🔹 **PaladinCore** — Base para plugins Minecraft em Java<br>
-🔹 **Paladin‑Bot** — Bot em Node.js totalmente modular<br>
-🔹 **Site Minimalista** — Portfólio em Next.js<br>
-🔹 **Painel Admin** — Sistema web completo com autenticação
-
-</div>
-
----
-
-## ✨ GIF de Destaque
-
-<div align="center">
-<img height="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWV0ZW5rNTVqbXB1eGJibmlzc3BseGR0YmR4eTR0bWozMWV3NzJsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rDgH5SPssQp7ugxPV/giphy.gif" />
-</div>
-
-<br>
-
-<br><br>
 
 <div align="center">
   <samp>ꜱᴇᴍᴘʀᴇ ᴄʀɪᴀɴᴅᴏ, ᴄᴏᴅᴀɴᴅᴏ ᴇ ᴇᴠᴏʟᴜɪɴᴅᴏ 🚀</samp>
